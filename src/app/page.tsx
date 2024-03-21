@@ -1,4 +1,4 @@
-import FormGenerator from "./form-generator/page";
+import FormGenerator from "./form-generator";
 import Header from "@/components/header";
 import { SessionProvider } from "next-auth/react";
 import { db } from "@/db";
